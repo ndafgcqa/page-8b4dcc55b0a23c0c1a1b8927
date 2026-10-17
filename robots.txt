@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-7875850d46.bewou.cn/sitemap.xml
